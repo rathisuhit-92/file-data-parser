@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Steps to run Code in Local
 
-Step 1: npm install
+Step 1: npm install<br />
 Step 2: npm start
 
 
