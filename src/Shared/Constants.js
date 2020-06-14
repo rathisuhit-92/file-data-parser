@@ -1,0 +1,9 @@
+export const maxTableColumns = 4;
+export const singleFileErrorMsg = 'Only upload single file';
+export const nonTxtFileErrorMsg = 'Only txt file supported';
+export const noDataErrorMsg = 'No data available in file';
+export const supportedFileFormat =  'text/plain';
+export const space =  ' ';
+export const emptyString =  '';
+export const defaultDelimiter =  ',';
+export const deaultNoOfLines = 2;
